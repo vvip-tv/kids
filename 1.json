@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "./jar/spider.jar",
+    "spider": "https://ghfast.top/https://raw.githubusercontent.com/vvip-tv/kids/main/jar/spider.jar?t=1021",
     "lives": [],
     "sites": [
         {
@@ -9,7 +9,7 @@
             "type": 3,
             "api": "csp_Bili3",
             "searchable": 0,
-            "ext": "./json/video_data.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/vvip-tv/kids/main/json/video_data.json"
         }
     ]
 }
