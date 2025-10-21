@@ -9,6 +9,10 @@
             "type": 3,
             "api": "csp_Bili3",
             "searchable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/vvip-tv/kids/main/json/video_data.json"
         }
     ]
