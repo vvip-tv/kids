@@ -1,11 +1,11 @@
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://ghfast.top/https://raw.githubusercontent.com/vvip-tv/kids/main/jar/spider.jar?t=1021",
+    "spider": "https://ghfast.top/https://raw.githubusercontent.com/vvip-tv/kids/main/jar/spider.jar?t=1022",
     "lives": [],
     "sites": [
         {
             "key": "Bili3",
-            "name": "👶更新｜1021",
+            "name": "👶更新｜1022",
             "type": 3,
             "api": "csp_Bili3",
             "searchable": 0,
@@ -14,6 +14,23 @@
                 "ratio": 1
             },
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/vvip-tv/kids/main/json/video_data.json"
+        },
+        {
+            "key": "少儿教育",
+            "name": "少儿教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+                "json": "https://ghfast.top/https://raw.githubusercontent.com/vvip-tv/kids/main/json/少儿教育.json"
+            }
         }
     ]
 }
