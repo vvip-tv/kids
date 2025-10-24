@@ -7166,5 +7166,43 @@
         "bvid": "BV1Bm411f7k3"
       }
     ]
-  }
+  },
+  "homeVideoList": [
+    {
+      "title": "宝宝巴士儿歌",
+      "picUrl": "https://i2.hdslb.com/bfs/archive/7157c2950d2f14df17f43a9baae23d6b1b7d2495.jpg@672w_378h_1c_!web-search-common-cover",
+      "videoCount": 200,
+      "bvid": "BV1pq4y1R7Q2"
+    },
+    {
+      "title": "亲宝儿歌",
+      "picUrl": "https://i2.hdslb.com/bfs/archive/5fade40da516c2ba917b7946d64ac36e9f689fa5.png@672w_378h_1c_!web-search-common-cover",
+      "videoCount": 35,
+      "bvid": "BV11u411F7Gc"
+    },
+    {
+      "title": "贝瓦儿歌",
+      "picUrl": "https://i2.hdslb.com/bfs/archive/f18b2eed01e92fc8b5d618be0480bab4e570d549.png@672w_378h_1c_!web-search-common-cover",
+      "videoCount": 88,
+      "bvid": "BV1y3411R7pw"
+    },
+    {
+      "title": "贝乐虎儿歌",
+      "picUrl": "https://i1.hdslb.com/bfs/archive/f4ee15e6d286b2f53a9cab155abd7ea50f0cad21.jpg@672w_378h_1c_!web-search-common-cover",
+      "videoCount": 208,
+      "bvid": "BV1RJ411S7bA"
+    },
+    {
+      "title": "宝贝纠纠精选合集",
+      "picUrl": "https://i1.hdslb.com/bfs/archive/960be2e8f030c2d023e98bb9d066233b95cd23f2.png@672w_378h_1c.avif",
+      "videoCount": 100,
+      "bvid": "BV14x4y1M74j"
+    },
+    {
+      "title": "儿歌多多",
+      "picUrl": "https://i0.hdslb.com/bfs/archive/28d37b9c5aefb94592d15480ffebaef0cc23adc5.jpg@672w_378h_1c_!web-search-common-cover",
+      "videoCount": 132,
+      "bvid": "BV1UX4y1n7nP"
+    }
+  ]
 }
