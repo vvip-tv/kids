@@ -1,5 +1,6 @@
 {
   "classNameList": [
+    "宝贝赳赳",
     "幼儿专区",
     "国学经典",
     "汉字拼音",
@@ -26,6 +27,38 @@
     "音乐舞蹈"
   ],
   "VideoClassInfoList": {
+    "宝贝赳赳": [
+      {
+        "title": "宝贝赳赳第一季",
+        "picUrl": "https://i1.hdslb.com/bfs/archive/2930cfb2b6938073fe828041f693ace7d0ec2483.jpg@672w_378h_1c.avif",
+        "videoCount": 103,
+        "bvid": "BV18u411D7o3"
+      },
+      {
+        "title": "宝贝赳赳第二季",
+        "picUrl": "https://i1.hdslb.com/bfs/archive/f701267419945532daec5ef2693098002a798dde.jpg@672w_378h_1c.avif",
+        "videoCount": 60,
+        "bvid": "BV1GG411p7Yf"
+      },
+      {
+        "title": "宝贝赳赳第三季",
+        "picUrl": "https://i1.hdslb.com/bfs/archive/a0becf783d5d48c7d3ff7931f68b11e66a07d52d.jpg@672w_378h_1c.avif",
+        "videoCount": 52,
+        "bvid": "BV15q4y1u7ET"
+      },
+      {
+        "title": "宝贝赳赳第四季",
+        "picUrl": "https://i2.hdslb.com/bfs/archive/4769b476743f29636999354ca778746480aae7bc.jpg@672w_378h_1c.avif",
+        "videoCount": 28,
+        "bvid": "BV148411p7Vw"
+      },
+      {
+        "title": "宝贝赳赳第五季",
+        "picUrl": "https://i0.hdslb.com/bfs/archive/d7f2c7a8d12bbd753b41ada085f6fdd3be9e8e4c.jpg@672w_378h_1c.avif",
+        "videoCount": 51,
+        "bvid": "BV1iT41197C6"
+      }
+    ],
     "幼儿专区": [
       {
         "title": "行为礼仪儿歌",
